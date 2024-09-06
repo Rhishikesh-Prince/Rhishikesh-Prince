@@ -7,13 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/rhishikeshprice" target="blank"><img src="https://img.shields.io/twitter/follow/rhishikeshprice?logo=twitter&style=for-the-badge" alt="rhishikeshprice" /></a> </p>
 
-- 🌱 I’m currently learning **django**
 
-- 💬 Ask me about **Python , HTML, Javascript**
+
+- 💬 Ask me about **Python, Django, HTML, CSS, Bootstrap, JavaScript, Mongo DB, SQLite, MySQL, JQuery, Angular, Flask**
 
 - 📫 How to reach me **rhisikeshprince32@gmail.com**
 
-- ⚡ Fun fact **I have a skill to communicate and work with anyone at any situations**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
