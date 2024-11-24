@@ -35,3 +35,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rhishikesh-prince&show_icons=true&locale=en" alt="rhishikesh-prince" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rhishikesh-prince&" alt="rhishikesh-prince" /></p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rhishikesh-prince&show_icons=true&locale=en&layout=compact" alt="rhishikesh-prince" /></p>
+
+
